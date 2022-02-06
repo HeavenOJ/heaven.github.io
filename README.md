@@ -1,3 +1,3 @@
-# heaven.github.io
+# heaven.github.io/problem
 Heaven Online Judge
 ### All the problems in this OJ is on this page
